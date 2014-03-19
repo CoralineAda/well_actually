@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["coraline@idolhands.com"]
   spec.description   = %q{Fedora-powered logic extensions.}
   spec.summary       = %q{Fedora-powered logic extensions to correct you whenever you're wrong.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/bantik/well_actually"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
