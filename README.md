@@ -3,6 +3,13 @@ well_actually
 
 Fedora-powered logic extensions.
 
+## Installation
+
+    # Gemfile
+    gem 'well_actually'
+
+And then `bundle` as normal.
+
 ## Usage
 
 Test your assertions:
