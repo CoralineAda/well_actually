@@ -18,7 +18,7 @@ Test your assertions:
     
 ## Coming Soon
 
-Support for the `mainsplain` method.
+Support for the `mansplain` method.
 
 ## Contributing
 
